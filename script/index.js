@@ -14,8 +14,6 @@ function subtrair(numero01_, numero02_) {
 
 subtrair(value, value02); 
 
-
-
 // classe de cadastro de dados...
 
 class Apresentaçao {
